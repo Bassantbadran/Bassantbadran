@@ -1,6 +1,5 @@
 # Hi there 👋, I'm Bassant Badran
 
-<img src="https://komarev.com/ghprofile/?username=bassantbadran&color=blueviolet&style=flat-square" alt="Profile Views" />
 
 ---
 
